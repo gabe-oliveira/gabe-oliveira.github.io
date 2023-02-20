@@ -48,7 +48,7 @@ h4 {
     text-transform: capitalize;
     letter-spacing: 2px;
     position: relative;
-    color: #222b13 ;
+    color: #33401c  ;
     margin-left: 40px;
     font-weight: 700;
 }
@@ -60,7 +60,7 @@ h4:before {
     content: "";
     display: block;
     height: 2px;
-    background: #222b13 ;
+    background: #33401c  ;
     top: 9px;
 }
 
@@ -130,7 +130,7 @@ body {
     width: 100%;
     -webkit-animation: rotation 1s linear infinite;
     animation: rotation 1s linear infinite;
-    border: 2px solid #222b13 ;
+    border: 2px solid #33401c  ;
     border-top: 2px solid transparent;
     border-radius: 100%
 }
@@ -271,12 +271,12 @@ a:focus {
 }
 
 a:hover {
-    color: #222b13 ;
+    color: #33401c  ;
     text-decoration: none;
 }
 
 a.active {
-    color: #222b13 ;
+    color: #33401c  ;
 }
 
 
@@ -313,7 +313,7 @@ a.active {
 
 .about-border {
     position: absolute;
-    border: 10px solid #222b13 ;
+    border: 10px solid #33401c  ;
     width: 400px;
     height: 400px;
     top: 40px;
@@ -339,7 +339,7 @@ a.active {
     font-family: 'Lato', sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
-    color: #222b13 ;
+    color: #33401c  ;
     font-size: 16px;
     font-weight: bold
 }
@@ -379,11 +379,11 @@ a.active {
 .timeline-event:hover .timeline-event-icon {
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
-    background-color: #222b13 ;
+    background-color: #33401c  ;
 }
 
 .timeline-event:hover .timeline-event-thumbnail {
-    box-shadow: inset 40em 0 0 0 #222b13 ;
+    box-shadow: inset 40em 0 0 0 #33401c  ;
 }
 
 .timeline-event-copy {
@@ -418,7 +418,7 @@ a.active {
     transition: transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #222b13 ;
+    background-color: #33401c  ;
     outline: 10px solid #f3f3f3;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
@@ -440,7 +440,7 @@ a.active {
     font-size: 12px;
     font-weight: bold;
     background-color: black;
-    box-shadow: inset 0 0 0 0em #222b13 ;
+    box-shadow: inset 0 0 0 0em #33401c  ;
     display: inline-block;
     margin-bottom: 1.2em;
     padding: 0.25em 1em 0.2em 1em;
@@ -480,7 +480,7 @@ a.active {
 }
 
 .portfolio .categories-grid .categories ul li a.active {
-    background-color: #222b13 ;
+    background-color: #33401c  ;
     padding: 0px 20px;
     color: white;
     text-decoration: none;
@@ -503,7 +503,7 @@ a.active {
     left: 0px;
     height: 100%;
     width: 100%;
-    background-color: #222b13 ;
+    background-color: #33401c  ;
     -webkit-transform: translateY(100%);
     transform: translateY(100%);
     opacity: 0;
@@ -538,7 +538,7 @@ a.active {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #222b13 ;
+    background-color: #33401c  ;
     padding: 5px 20px;
     color: #fff;
     margin-top: 10px;
@@ -708,11 +708,11 @@ fieldset {
 }
 
 #success p {
-    color: #222b13 ;
+    color: #33401c  ;
     font-size: 15px;
     text-align: center;
     padding: 10px;
-    border: 2px solid #222b13 ;
+    border: 2px solid #33401c  ;
     margin-top: 10px;
 }
 
@@ -726,7 +726,7 @@ fieldset {
 }
 
 #submit {
-    background-color: #222b13 ;
+    background-color: #33401c  ;
     color: #fff;
     padding: 10px 40px;
     border-radius: 0;
@@ -755,7 +755,7 @@ fieldset {
 }
 
 .social li a:hover {
-    color: #222b13 ;
+    color: #33401c  ;
 }
 
 
